@@ -12,4 +12,4 @@ _**Bu bot, gruplarda 10.000'e kadar üyeden bahsedebilir ve kanallarda 200'e kad
 - [Maho Ağa](https://github.com/Mehmetbaba06) Developer 👨‍💻
 - [Mami Bey](https://github.com/mamibeyy) Proje yardımcısı 👨‍💻
 
-**Github'da beni takip etmeyi unutma.✌️**
+**Github'da bizi takip etmeyi unutmayınız.✌️**
