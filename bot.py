@@ -26,7 +26,7 @@ async def start(event):
                    )
 @client.on(events.NewMessage(pattern="^/help$"))
 async def help(event):
-  helptext = "**MentionAllBot Yardım Menüsü**\n\nCommand: /mentionall\n__Bu komutu, başkalarına bahsetmek istediğiniz metinle kullanabilirsiniz.__\n`Example: /Herkese Günaydın!`\n__Bu komutu herhangi bir iletiye yanıt olarak. Bot, kullanıcıları yanıtlanan karışıklıkla etiketleyecek__.\n\nFollow [@SohbetDestek](https://t.me/Sohbetdestek) on Channel"
+  helptext = "**MentionAllBot Yardım Menüsü**\n\nCommand: /mentionall\n__Bu komutu, başkalarına bahsetmek istediğiniz metinle kullanabilirsiniz.__\n`Örnek: /Herkese Günaydın!`\n__Bu komutu herhangi bir iletiye yanıt olarak. Bot, kullanıcıları yanıtlanan karışıklıkla etiketleyecek__.\n\nFollow [@SohbetDestek](https://t.me/Sohbetdestek) on Channel"
   await event.reply(helptext,
                     buttons=(
                       [Button.url('📣 Channel', 'https://t.me/Sohbetdestek'),
