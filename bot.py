@@ -15,6 +15,13 @@ api_hash = os.environ.get("API_HASH")
 bot_token = os.environ.get("TOKEN")
 client = TelegramClient('client', api_id, api_hash).start(bot_token=bot_token)
 
+anlik_calisan = []
+
+@client.on(events.NewMessage(pattern='^(?i)/allstop'))
+async def cancel(event):
+  global anlik_calisan
+  anlik_calisan.remove(event.chat_id)
+
 @client.on(events.NewMessage(pattern="^/start$"))
 async def start(event):
   await event.reply("__**Ben Mention Tag Bot**, Grup veya kanaldaki hemen hemen tüm üyelerden bahsedebilirim. 👻\nTık **/help** daha fazla bilgi için__\n\n Follow [@Mahoaga](https://t.me/Mahoaga) telegram",
