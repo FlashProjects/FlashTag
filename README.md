@@ -9,7 +9,7 @@ _**Bu bot, gruplarda 10.000'e kadar üyeden bahsedebilir ve kanallarda 200'e kad
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mehmetbaba06/AllBot55)
 
 ### 🎯 Krediler ve Diğer
-- [Maho Ağa](https://github.com/Mehmetbaba06) bu Proje için ;)
-- [Mami Bey](https://github.com/Mehmetbaba06) bu Proje için ;)
+- [Maho Ağa](https://github.com/Mehmetbaba06) Developer 👨‍💻
+- [Mami Bey](https://github.com/mamibeyy) Proje yardımcısı 👨‍💻
 
 **Github'da beni takip etmeyi unutma.✌️**
