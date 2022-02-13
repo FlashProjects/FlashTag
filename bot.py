@@ -286,16 +286,3 @@ async def mentionall(tagadmin):
 
 print(">> Bot çalıyor merak etme 🚀 @Mahoaga bilgi alabilirsin <<")
 client.run_until_disconnected()
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
