@@ -1,5 +1,5 @@
 {
-  "name": "Mention All Bot",
+  "name": "Flash Tag Bot",
   "description": "A simple mention all for telegram.",
   "env": {
     "TOKEN": {
@@ -8,11 +8,11 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal.",
-      "value": ""
+      "value": "4748631"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal.",
-      "value": ""
+      "value": "13de08ae9ca5791ca5d550a02c61cf3c"
     }
   },
   "buildpacks": [{
